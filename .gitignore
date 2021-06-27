@@ -1,0 +1,8 @@
+.secret
+eth-contracts/.key
+eth-contracts/.secret
+minter/.env
+minter/package-lock.json
+eth-contracts/build
+node_modules
+minter/node_modules
